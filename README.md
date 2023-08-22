@@ -1,4 +1,3 @@
-"# python" 
 
 * [Practical python programming](https://github.com/dabeaz-course/practical-python)
 * [Python project based learning](https://github.com/practical-tutorials/project-based-learning#python)
