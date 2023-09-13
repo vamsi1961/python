@@ -10,4 +10,4 @@
 
 * [450](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
 * [leetcode 75](https://docs.google.com/spreadsheets/d/1bzBStz2We6ATrgChoN5WupCEme7lbVrhB_-_Lpzml0A/edit#gid=0)
-* [150 days of code](https://leetcode.com/studyplan/top-interview-150/)https://leetcode.com/studyplan/top-interview-150/
+* [150 days of code](https://leetcode.com/studyplan/top-interview-150/)
